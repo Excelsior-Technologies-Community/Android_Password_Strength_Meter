@@ -20,9 +20,10 @@ A beautiful, customizable, and easy-to-use Android library that provides real-ti
 # **Preview**
 ---
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/80735f74-620e-4a83-bfb4-ed7a0995a474"
+  <img src="https://github.com/user-attachments/assets/54e22ab7-86fd-4701-9cef-de2b620beedc"
        alt="Demo GIF"
        width="200">
+
 
 
 </p>
