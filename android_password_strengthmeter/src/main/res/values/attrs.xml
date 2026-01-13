@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="PasswordStrengthMeter">
+        <!-- Reference to the EditText to monitor -->
+        <attr name="targetEditText" format="reference" />
+
+        <!-- Show/hide strength text below the bars -->
+        <attr name="showStrengthText" format="boolean" />
+
+        <!-- Bar appearance -->
+        <attr name="barHeight" format="dimension" />
+        <attr name="barCornerRadius" format="dimension" />
+        <attr name="barSpacing" format="dimension" />
+
+        <!-- Colors for different strength levels -->
+        <attr name="weakColor" format="color" />
+        <attr name="fairColor" format="color" />
+        <attr name="goodColor" format="color" />
+        <attr name="strongColor" format="color" />
+        <attr name="veryStrongColor" format="color" />
+        <attr name="meterBackgroundColor" format="color" />
+    </declare-styleable>
+</resources>
